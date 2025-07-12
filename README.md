@@ -24,8 +24,8 @@
 ## 📫 Let's Connect!
 
 - 📧 Email: [himanshu6404@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/himanshu-sharma-6354b0295](https://www.linkedin.com/in/himanshu-sharma-6354b0295/))  
-- 🌐 Portfolio: [your-website.com]([https://himanshu6404.github.io/Portfolio.github.io](https://himanshu6404.github.io/Portfolio.github.io/))
+- 💼 LinkedIn: [linkedin.com/in/himanshu]((https://www.linkedin.com/in/himanshu-sharma-6354b0295/))  
+- 🌐 Portfolio: []((https://himanshu6404.github.io/Portfolio.github.io/))
 
 ---
 
