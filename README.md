@@ -25,7 +25,6 @@
 
 - 📧 Email: [himanshu6404@gmail.com]  
 - 💼 LinkedIn: [https://www.linkedin.com/in/himanshu-sharma-6354b0295/]
-- 🌐 Portfolio: [https://himanshu6404.github.io/Portfolio.github.io/]
 
 ---
 
